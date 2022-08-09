@@ -1,0 +1,37 @@
+
+2021-09-24 19:16:47----Add----Shampoo, P 1rs, Pantene, 10, 10, dozen 
+2021-09-24 19:17:01----Add----Shampoo, V 1rs, Vatika, 10, 10, dozen 
+2021-09-24 19:17:17----Add----Soap, D 30rs, Detol, 10, 10, item 
+2021-09-24 19:17:47----Add----Soap, D 30rs, Detol, 20.0, 20.0, item 
+2021-09-24 19:18:00----Add----Soap, L 30rs, Lifeboy, 30, 10, item 
+2021-09-24 19:20:07----Remove----Shampoo, V 1rs, Vatika, 12, 1, dozen,s 
+2021-09-24 19:20:22----Remove----Soap, D 30rs, Detol, 32, 1, item, 
+2021-09-24 19:24:56----Add----Shampoo, P 1rs, Pantene, 10, 10, item 
+2021-09-24 19:25:18----Add----Shampoo, V 1rs, Vatika, 10, 10, item 
+2021-09-24 19:25:39----Add----Soap, D 30rs, Detol, 25, 10, item 
+2021-09-24 19:26:05----Add----Soap, L 30rs, Lifeboy, 25, 10, item 
+2021-09-24 19:26:53----Add----Shampoo, P 1rs, Pantene, 10.0, 10, item 
+2021-09-24 19:29:24----Remove----Shampoo, P 1rs, Pantene, 12, 5, item, 
+2021-09-24 19:29:36----Remove----Shampoo, V 1rs, Vatika, 12, 1, item, 
+2021-09-25 12:56:22----Add----Shampoo, 1rs, Pantene, 10, 10, item 
+2021-09-25 12:56:35----Add----Shampoo, 1rs, Vatika, 10, 10, item 
+2021-09-25 12:56:47----Add----Shampoo, 2rs, Pantene, 20, 10, item 
+2021-09-25 12:57:00----Add----Shampoo, 2rs, Vatika, 20, 10, item 
+2021-09-25 12:57:50----Add----Shampoo, 1rs, Pantene, 7.5, 10, item 
+2021-09-25 12:59:43----Remove----Shampoo, 1rs, Pantene, 11, 1, item, 
+2021-09-25 12:59:57----Remove----Shampoo, 1rs, Vatika, 11, 1, item, 
+2021-09-25 13:00:10----Remove----Shampoo, 2rs, Pantene, 22, 1, item, 
+2021-09-25 13:02:42----Remove----Shampoo, 1rs, Pantene, 11, 1, item, 
+2021-09-25 13:14:28----Add----Shampoo, 100rs, Pantene, 90, 10, item 
+2021-09-25 13:15:01----Remove----Shampoo, 100rs, Pantene, 110, 1, item, 
+2021-09-25 13:15:37----Remove----Shampoo, 100rs, Pantene, 110, 9, item, 
+2021-09-25 13:53:21----Remove----Shampoo, 1rs, Pantene, 11, 1, item, 
+2021-09-25 13:54:12----Add----Shampoo, 100rs, Pantene, 90.0, 10, item 
+2021-09-25 14:22:47----Add----Shampoo, 1rs, Pantene, 6.25, 10, item 
+2021-09-25 14:23:32----Add----Shampoo, 1rs, Pantene, 7.625, 10, item 
+2021-09-25 14:23:58----Add----Shampoo, 1rs, Pantene, 7.8125, 5, item 
+2021-09-25 14:24:22----Remove----Shampoo, 1rs, Pantene, 11, 5, item, 
+2022-01-17 21:25:38----Add----Shampoo, 1rs, Pantene, 18.90625, 30, item 
+2022-01-18 19:44:43----Add----Shampoo, H, ABC, 10, 10, item 
+2022-01-18 19:45:46----Remove----Shampoo, H, ABC, 2, 1, item, 
+2022-08-10 00:01:55----Add----Shampoo, 2rs, Pantene, 20.0, 10, item 
